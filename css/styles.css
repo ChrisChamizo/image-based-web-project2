@@ -4,6 +4,9 @@
 /*Importe CDN DE BOOTSTRAP ICONS*/
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
+/*Import cdn de FontAweSome*/
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css);
+
 /*Selector universal: elimina los margenes y rellenos, los reinicio a 0*/
 
 *{
